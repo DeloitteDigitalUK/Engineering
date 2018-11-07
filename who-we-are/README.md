@@ -6,10 +6,10 @@ We work with strategists, designers and analysts to build elegant digital produc
 
 Here you can read more about:
 
-* [Who trives here](./who)
-* [Our values](./values)
-* [Our work environment](./environment)
-* [Our community](./community)
-* [Innovation and learning](./innovation)
-* [How we manage career progression](./career)
+* [Who thrives here](./who.md)
+* [Our values](./values.md)
+* [Our work environment](./environment.md)
+* [Our community](./community.md)
+* [Innovation and learning](./innovation.md)
+* [How we manage career progression](./career.md)
 
